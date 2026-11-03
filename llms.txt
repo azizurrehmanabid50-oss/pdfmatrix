@@ -1,0 +1,13 @@
+# FileFitly
+FileFitly is a free privacy-first browser toolkit for resizing, compressing and converting common files.
+
+Key pages:
+- https://filefitly.com/
+- https://filefitly.com/tools/
+- https://filefitly.com/blog/
+- https://filefitly.com/about.html
+- https://filefitly.com/privacy-policy.html
+
+Core groups: image compression and resizing, passport photos, signatures, PDF compression and extraction, video/audio compression, conversion, splitting and calculators.
+
+Privacy model: core file transformations are designed to happen locally in the browser; the selected file does not need to be uploaded to a FileFitly processing server.

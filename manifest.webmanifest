@@ -1,0 +1,8 @@
+{
+  "name": "FileFitly",
+  "short_name": "FileFitly",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f9fc",
+  "theme_color": "#5b5cf0"
+}
